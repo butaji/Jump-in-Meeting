@@ -1,5 +1,7 @@
 # Jump In Meeting
 
+Download on [Apple Mac AppStore](https://apps.apple.com/app/jump-in-meeting/id1506451016?l=en&mt=12)
+
 ![Demo](demo.gif)
 
 The application helps you to save time jumping from a teleconference meeting to another call during the day with the shortcut: Shift+Command+J
