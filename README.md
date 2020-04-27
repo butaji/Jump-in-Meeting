@@ -1,6 +1,6 @@
 # Jump In Meeting
 
-<video src="review.mp4" width="1024" height="640" controls preload></video>
+![Demo](demo.gif)
 
 The application helps you to save time jumping from a teleconference meeting to another call during the day with the shortcut: Shift+Command+J
 
